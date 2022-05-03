@@ -39,11 +39,13 @@ This repository contains different technical writing resources that has been gat
 
 ## Books
 - [Writing Well](https://www.julian.com/guide/write/intro) ~ Julian Shapiro
-- [Modern Technical Writing: An Introduction to Software Documentation ](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=Y7S35M7LVXWE&dchild=1&keywords=modern+technical+writing&qid=1595414707&sprefix=modern+technical+%2Caps%2C346&sr=8-1) ~ Andrew Etter
-- [Writing for Sotware Developers](https://philipkiely.gumroad.com/l/uZPZU) ~ Philip Kiely
-- [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/) ~ Jared Bhatti
-- [Technical Writing For Dummies](https://www.amazon.com/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089) ~ Sheryl Lindsell-Roberts
 - [Technical Writing, Simplified](https://www.amazon.com/Technical-Writing-Simplified-Nell-Johnson/dp/154326848X/ref=sr_1_1?crid=NUEHTLJWKLMN&keywords=Technical+Writing%2C+Simplified&qid=1651614066&s=books&sprefix=technical+writing%2C+simplified%2Cstripbooks-intl-ship%2C416&sr=1-1) ~ Nell Johnson
+- [Writing for Sotware Developers](https://philipkiely.gumroad.com/l/uZPZU) ~ Philip Kiely
+- [Technical Writing For Dummies](https://www.amazon.com/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089) ~ Sheryl Lindsell-Roberts
+
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/) ~ Jared Bhatti
+- [Modern Technical Writing: An Introduction to Software Documentation ](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=Y7S35M7LVXWE&dchild=1&keywords=modern+technical+writing&qid=1595414707&sprefix=modern+technical+%2Caps%2C346&sr=8-1) ~ Andrew Etter
+
 
 ## Courses
 
@@ -66,5 +68,8 @@ This repository contains different technical writing resources that has been gat
 
 Communities can provide valuable learning opportunities, growth, mentorship and career advancement. Connecting with people of similar interest is one of the reasons why people join communities. Here are some of the communities that technical writers can join: 
 
-- []()
+- [Write the Docs](https://www.writethedocs.org/)
+- [Linkedin Technical Writing Community](https://www.linkedin.com/groups/13705342/)
+- [Global Writers Community](https://web.facebook.com/groups/technicalwriterjobs/?_rdc=1&_rdr)
+- [API Documentation Group](https://www.linkedin.com/groups/3709151/)
 
