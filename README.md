@@ -24,7 +24,7 @@
 ### Resources
 This repository contains different technical writing resources that has been gathered from all around the internet
 
- #### Articles
+ ### Articles
  - [How to Get Started with Technical Writing](https://www.samjulien.com/how-to-get-started-with-technical-writing)
  - [How to become a technical writer](https://www.freecodecamp.org/news/how-to-become-a-technical-writer/) 
  - [Technical Writing for Beginners – An A-Z Guide to Tech Blogging Basics](https://www.freecodecamp.org/news/technical-writing-for-beginners/)
