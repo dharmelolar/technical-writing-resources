@@ -18,9 +18,14 @@
   - [Who pays technical writers](#Who-pays-technical-writers)
   - [open source projects](#open-source-projects)
   - [Awesome technical writers](#Awesome-technical-writers)
+  - [Blogs to follow for awesome writing contents](#Blogs-to-follow-for-awesome-writing-contents)
 
 ### Resources
 This repository contains different technical writing resources that has been gathered from all around the internet
 
  #### Articles
+ - [How to Get Started with Technical Writing](https://www.samjulien.com/how-to-get-started-with-technical-writing)
  - [How to become a technical writer](https://www.freecodecamp.org/news/how-to-become-a-technical-writer/) 
+ - [Technical Writing for Beginners – An A-Z Guide to Tech Blogging Basics](https://www.freecodecamp.org/news/technical-writing-for-beginners/)
+ - [Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how)
+ - [How to Learn Technical Writing for Free](https://medium.com/technical-writing-is-easy/how-to-learn-technical-writing-for-free-c16d191b3cee)
