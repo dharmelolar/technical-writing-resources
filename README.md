@@ -64,7 +64,7 @@ This repository contains different technical writing resources that has been gat
 - [William Smith](https://www.youtube.com/watch?v=amKDhaIlyOc)
 
 
-### Communities
+## Communities
 
 Communities can provide valuable learning opportunities, growth, mentorship and career advancement. Connecting with people of similar interest is one of the reasons why people join communities. Here are some of the communities that technical writers can join: 
 
