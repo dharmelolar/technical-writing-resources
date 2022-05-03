@@ -2,7 +2,7 @@
 
 
 
-### What is Technical Writing?
+## What is Technical Writing?
 
 
 >Technical writing is a type of writing where the author is writing about a particular subject that requires direction, instruction, or explanation. This style of writing has a very different purpose and different characteristics than other writing styles. ~ [YourDictionary](https://grammar.yourdictionary.com/word-definitions/definition-of-technical-writing.html)
@@ -21,10 +21,10 @@
   - [Blogs to follow for awesome writing contents](#Blogs-to-follow-for-awesome-writing-contents)
   - [Prepar]
 
-### Resources
+## Resources
 This repository contains different technical writing resources that has been gathered from all around the internet
 
- ### Articles
+ ## Articles
  - [How to Get Started with Technical Writing](https://www.samjulien.com/how-to-get-started-with-technical-writing)
  - [How to become a technical writer](https://www.freecodecamp.org/news/how-to-become-a-technical-writer/) 
  - [Technical Writing for Beginners – An A-Z Guide to Tech Blogging Basics](https://www.freecodecamp.org/news/technical-writing-for-beginners/)
@@ -37,7 +37,7 @@ This repository contains different technical writing resources that has been gat
  - [Writing Tips for Software Developers – How to Become a Better Tech Writer](https://www.freecodecamp.org/news/writing-tips-software-developers/)
 
 
-#### Books
+## Books
 - [Writing Well](https://www.julian.com/guide/write/intro) ~ Julian Shapiro
 - [Modern Technical Writing: An Introduction to Software Documentation ](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=Y7S35M7LVXWE&dchild=1&keywords=modern+technical+writing&qid=1595414707&sprefix=modern+technical+%2Caps%2C346&sr=8-1) ~ Andrew Etter
 - [Writing for Sotware Developers](https://philipkiely.gumroad.com/l/uZPZU) ~ Philip Kiely
