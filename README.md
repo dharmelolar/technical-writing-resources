@@ -1,4 +1,4 @@
-##### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid unstanding of the technology you're writing about
+### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid unstanding of the technology you're writing about
 
 
 
@@ -44,3 +44,27 @@ This repository contains different technical writing resources that has been gat
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/) ~ Jared Bhatti
 - [Technical Writing For Dummies](https://www.amazon.com/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089) ~ Sheryl Lindsell-Roberts
 - [Technical Writing, Simplified](https://www.amazon.com/Technical-Writing-Simplified-Nell-Johnson/dp/154326848X/ref=sr_1_1?crid=NUEHTLJWKLMN&keywords=Technical+Writing%2C+Simplified&qid=1651614066&s=books&sprefix=technical+writing%2C+simplified%2Cstripbooks-intl-ship%2C416&sr=1-1) ~ Nell Johnson
+
+## Courses
+
+- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+- [Technical Writing: How to Write Software Documentation](https://www.udemy.com/course/start-your-career-as-user-assistance-developer/)
+- [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
+- [The Art of API Documentation](https://www.udemy.com/course/the-art-of-api-documentation/)
+- [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
+- [Technical Writer Certification Course](https://technicalwriter.teachable.com/p/technical-writing-certification)
+
+## Youtube
+
+- [DocToHelpTV](https://www.youtube.com/user/DocToHelpTV/videos)
+- [Technical Writer HQ](youtube.com/channel/UCjMnGjosWhBxYtumwhQLZmA/videos)
+- [Amruta Ranade](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA)
+- [William Smith](https://www.youtube.com/watch?v=amKDhaIlyOc)
+
+
+### Communities
+
+Communities can provide valuable learning opportunities, growth, mentorship and career advancement. Connecting with people of similar interest is one of the reasons why people join communities. Here are some of the communities that technical writers can join: 
+
+- []()
+
