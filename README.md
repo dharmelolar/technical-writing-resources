@@ -16,9 +16,11 @@
   - [Communities](#communities)
   - [Tools](#tools)
   - [Who pays technical writers](#Who-pays-technical-writers)
+  - [open source projects](#open-source-projects)
   - [Awesome technical writers](#Awesome-technical-writers)
 
 ### Resources
-
 This repository contains different technical writing resources that has been gathered from all around the internet
 
+ #### Articles
+ - [How to become a technical writer](https://www.freecodecamp.org/news/how-to-become-a-technical-writer/) 
