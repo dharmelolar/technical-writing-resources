@@ -19,7 +19,8 @@
   - [open source projects](#open-source-projects)
   - [Awesome technical writers](#Awesome-technical-writers)
   - [Blogs to follow for awesome writing contents](#Blogs-to-follow-for-awesome-writing-contents)
-  - [Prepar]
+  - [Preparing for technical writing interviews](#Preparing-for-technical-writing-interviews)
+  - [Job boards for technical writing roles](#Job-boards-for-technical-writing-roles)
 
 ## Resources
 This repository contains different technical writing resources that has been gathered from all around the internet
@@ -62,6 +63,7 @@ This repository contains different technical writing resources that has been gat
 - [Technical Writer HQ](youtube.com/channel/UCjMnGjosWhBxYtumwhQLZmA/videos)
 - [Amruta Ranade](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA)
 - [William Smith](https://www.youtube.com/watch?v=amKDhaIlyOc)
+- [How to become a Technical Writer | Skills & Career Growth](youtube.com/watch?v=8l2KJXIBpB0)
 
 
 ## Communities
@@ -87,4 +89,15 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Dropbox Paper](https://www.dropbox.com/paper) ~ Dropbox Paper is an online document workspace, where you can organize and display text, media, and files all in one place.
 - [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) ~ A chrome extension taht allows you take full page screenshot of your current browser window.
 - [Carbon](https://carbon.now.sh/) ~ Carbon is the easiest way to create and share beautiful images of your source code.
+
+## Who pays technical writers
+
+Writing technical contents for organizations and publications is an excellent way to earn extra income. This way, you learn a lot,then share your knowledge and get paid. Check out these compiled list for organizations that pays technical writers.
+
+- [Community writer program](https://github.com/malgamves/CommunityWriterPrograms)
+- [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
+- [Publications That Pay You To Write Technical Articles](https://catalins.tech/websites-that-pay-you-to-write-technical-articles)
+
+## Open Source Projects
+
 
