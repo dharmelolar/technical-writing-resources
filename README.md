@@ -89,6 +89,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Dropbox Paper](https://www.dropbox.com/paper) ~ Dropbox Paper is an online document workspace, where you can organize and display text, media, and files all in one place.
 - [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) ~ A chrome extension taht allows you take full page screenshot of your current browser window.
 - [Carbon](https://carbon.now.sh/) ~ Carbon is the easiest way to create and share beautiful images of your source code.
+- [Isitwp](https://www.isitwp.com/headline-analyzer) ~ IsItWP Headline Analyzer tool helps you write headlines that drive traffic, shares and rank better in search results.
 
 ## Who pays technical writers
 
@@ -100,4 +101,19 @@ Writing technical contents for organizations and publications is an excellent wa
 
 ## Open Source Projects
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. A lot of peole contribute to open source for different reasons and the vital one which is improving one's skillset. 
+Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. A lot of peole contribute to open source for different reasons and the vital one which is improving one's skillset.
+
+Here are some articles to help you understand how to contribute to open source projects.
+
+
+- [The Technical Writers Guide to Contributing to Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
+- [How to Contribute to Open-Source as a Technical Writer](https://javascript.plainenglish.io/how-to-contribute-to-open-source-as-a-technical-writer-bb708245480c)
+- [4 tips to becoming a technical writer with open source contributions](https://opensource.com/article/21/11/technical-writing-open-source)
+- [Getting started with Open Source as a Technical Writer](https://amara.hashnode.dev/getting-started-with-open-source-as-a-technical-writer)
+
+#### Open Source Projects/Programs Technical Writers Can Contribute To
+
+- [Codecademy Docs](https://www.codecademy.com/resources/docs) ~ Docs is a community-driven collection of code documentation for popular programming languages and frameworks.
+- [The Good Docs Project](https://thegooddocsproject.dev/) ~ The Good Docs Project is a community working together to create the templates, tools, and resources to improve the overall quality of documentation in OSS and beyond.
+- [Google Season of Docs](https://developers.google.com/season-of-docs) ~ Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source. 
+  
