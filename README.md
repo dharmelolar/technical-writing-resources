@@ -79,3 +79,12 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 
 ## Tools
 
+- [Canva](https://www.canva.com/) ~ Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
+- [Removebg](https://www.remove.bg/) ~ A tools that is used to remove image backgrounds.
+- [Grammarly](https://app.grammarly.com/) ~ Grammarly is a typing assistant that reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes.
+- [Hemingway App ](https://hemingwayapp.com/) ~ The Hemingway App is a web and desktop app that can improve your writing style and touch up your content.
+- [Notion](https://www.notion.so/) ~ Notion is an all-in-one workspace for your notes, tasks, wikis, and databases. It is a tool you can use to organize your thoughts, projects, and information.
+- [Dropbox Paper](https://www.dropbox.com/paper) ~ Dropbox Paper is an online document workspace, where you can organize and display text, media, and files all in one place.
+- [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) ~ A chrome extension taht allows you take full page screenshot of your current browser window.
+- [Carbon](https://carbon.now.sh/) ~ Carbon is the easiest way to create and share beautiful images of your source code.
+
