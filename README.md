@@ -100,4 +100,4 @@ Writing technical contents for organizations and publications is an excellent wa
 
 ## Open Source Projects
 
-
+Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. A lot of peole contribute to open source for different reasons and the vital one which is improving one's skillset. 
