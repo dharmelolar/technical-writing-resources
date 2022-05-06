@@ -36,6 +36,7 @@ This repository contains different technical writing resources that has been gat
  - [How To Write Content That Readers Will Read Based On Learnings From User Psychology](https://www.everythingtechnicalwriting.com/how-to-write-content-that-readers-will-read/)
  - [How To Create A Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
  - [Writing Tips for Software Developers – How to Become a Better Tech Writer](https://www.freecodecamp.org/news/writing-tips-software-developers/)
+ - [11 Best Practices for Writing API Documentation](https://treblle.com/blog/11-best-practices-for-writing-api-documentation)
 
 
 ## Books
@@ -116,4 +117,6 @@ Here are some articles to help you understand how to contribute to open source p
 - [Codecademy Docs](https://www.codecademy.com/resources/docs) ~ Docs is a community-driven collection of code documentation for popular programming languages and frameworks.
 - [The Good Docs Project](https://thegooddocsproject.dev/) ~ The Good Docs Project is a community working together to create the templates, tools, and resources to improve the overall quality of documentation in OSS and beyond.
 - [Google Season of Docs](https://developers.google.com/season-of-docs) ~ Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source. 
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) ~ Hacktoberfest is a yearly event to encourage people to contribute to open source in October.
+- 
   
