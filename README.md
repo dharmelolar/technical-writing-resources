@@ -47,6 +47,7 @@ This repository contains different technical writing resources that has been gat
 
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/) ~ Jared Bhatti
 - [Modern Technical Writing: An Introduction to Software Documentation ](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=Y7S35M7LVXWE&dchild=1&keywords=modern+technical+writing&qid=1595414707&sprefix=modern+technical+%2Caps%2C346&sr=8-1) ~ Andrew Etter
+- [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.amazon.com/gp/product/1118905555/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118905555&linkId=5a9769d7dc1a62419abb83e6b451ac96) ~ Ann Handley
 
 
 ## Courses
@@ -79,11 +80,14 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Hashnode](https://discord.com/invite/hashnode)
 - [The Good Docs Project Community](https://thegooddocsproject.dev/community/)
 - [Techwriters.dev](https://techwriters.dev/)
+- [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 
 ## Tools
 
 - [Canva](https://www.canva.com/) ~ Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
 - [Removebg](https://www.remove.bg/) ~ A tools that is used to remove image backgrounds.
+- [Markdown](https://daringfireball.net/projects/markdown/) ~ Markdown is a text-to-HTML conversion tool for web writers.
+- [AsciiDoc](https://asciidoc.org/) ~ AsciiDoc is a lightweight and semantic markup language primarily designed for writing technical documentation. 
 - [Grammarly](https://app.grammarly.com/) ~ Grammarly is a typing assistant that reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes.
 - [Hemingway App ](https://hemingwayapp.com/) ~ The Hemingway App is a web and desktop app that can improve your writing style and touch up your content.
 - [Notion](https://www.notion.so/) ~ Notion is an all-in-one workspace for your notes, tasks, wikis, and databases. It is a tool you can use to organize your thoughts, projects, and information.
@@ -118,5 +122,5 @@ Here are some articles to help you understand how to contribute to open source p
 - [The Good Docs Project](https://thegooddocsproject.dev/) ~ The Good Docs Project is a community working together to create the templates, tools, and resources to improve the overall quality of documentation in OSS and beyond.
 - [Google Season of Docs](https://developers.google.com/season-of-docs) ~ Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source. 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) ~ Hacktoberfest is a yearly event to encourage people to contribute to open source in October.
-- 
+- [The GNOME Documentation Project](https://wiki.gnome.org/DocumentationProject)
   
