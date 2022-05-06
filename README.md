@@ -58,6 +58,7 @@ This repository contains different technical writing resources that has been gat
 - [The Art of API Documentation](https://www.udemy.com/course/the-art-of-api-documentation/)
 - [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [Technical Writer Certification Course](https://technicalwriter.teachable.com/p/technical-writing-certification)
+- [SEO FOR DEVS](https://seofordevs.com/) ~ SEO FOR DEVS is a free 2 weeks course that helps people discover your tech blog or side project in a systematic way
 
 ## Youtube
 
@@ -124,3 +125,18 @@ Here are some articles to help you understand how to contribute to open source p
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) ~ Hacktoberfest is a yearly event to encourage people to contribute to open source in October.
 - [The GNOME Documentation Project](https://wiki.gnome.org/DocumentationProject)
   
+
+## Blogs to follow for awesome writing contents
+
+| Technical writers     | Blogs  |
+| :-----------| ----------- |
+| Damilola Ezekiel   | https://dharmelolar.hashnode.dev|
+| Tom Johnson   | https://idratherbewriting.com/|
+| Kesi Parker   | https://medium.com/@kesiparker|
+| Tania Rascia  | https://www.taniarascia.com/|
+| Dillion Megida | https://dillionmegida.com/|
+| Linda Ikechukwu| https://www.everythingtechnicalwriting.com|
+| Amruta Ranade| https://dev.to/amrutaranade |
+
+## Preparing for technical writing interviews 
+
