@@ -48,6 +48,8 @@ This repository contains different technical writing resources that has been gat
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/) ~ Jared Bhatti
 - [Modern Technical Writing: An Introduction to Software Documentation ](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=Y7S35M7LVXWE&dchild=1&keywords=modern+technical+writing&qid=1595414707&sprefix=modern+technical+%2Caps%2C346&sr=8-1) ~ Andrew Etter
 - [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.amazon.com/gp/product/1118905555/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118905555&linkId=5a9769d7dc1a62419abb83e6b451ac96) ~ Ann Handley
+- [On Writing Well](https://www.amazon.com/gp/product/0060891548/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060891548&linkId=27bd72a8da3fb242b39dbe4edb470daf) ~ William Zinsser
+- [Technical Communication](https://www.amazon.com/Technical-Communication-Mike-Markel-dp-1319245005/dp/1319245005/ref=dp_ob_image_bk) ~ Mike Markel
 
 
 ## Courses
@@ -59,6 +61,7 @@ This repository contains different technical writing resources that has been gat
 - [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [Technical Writer Certification Course](https://technicalwriter.teachable.com/p/technical-writing-certification)
 - [SEO FOR DEVS](https://seofordevs.com/) ~ SEO FOR DEVS is a free 2 weeks course that helps people discover your tech blog or side project in a systematic way
+- [API Documentationfor Developers](https://apidocsfordevs.com/)
 
 ## Youtube
 
@@ -140,3 +143,7 @@ Here are some articles to help you understand how to contribute to open source p
 
 ## Preparing for technical writing interviews 
 
+- [12 Technical Writer Interview Questions and Answers](https://technicalwriterhq.com/technical-writer-interview-questions/)
+- [Google Technical Writer Interview Questions](https://technicalwriterhq.com/google-technical-writer-interview-questions/)
+- [Technical Writing Job Interview](https://www.youtube.com/watch?v=cqaEgMv2JAg)
+- 
