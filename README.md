@@ -1,4 +1,4 @@
-### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid unstanding of the technology you're writing about
+### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid understanding of the technology you're writing about
 
 
 
@@ -128,15 +128,15 @@ Here are some articles to help you understand how to contribute to open source p
 
 ## Blogs to follow for awesome writing contents
 
-| Technical writers     | Blogs  |
-| :-----------| ----------- |
-| Damilola Ezekiel   | https://dharmelolar.hashnode.dev|
-| Tom Johnson   | https://idratherbewriting.com/|
-| Kesi Parker   | https://medium.com/@kesiparker|
-| Tania Rascia  | https://www.taniarascia.com/|
-| Dillion Megida | https://dillionmegida.com/|
-| Linda Ikechukwu| https://www.everythingtechnicalwriting.com|
-| Amruta Ranade| https://dev.to/amrutaranade |
+| Technical Writers     | Blogs  | Twitter Handle|
+| :-----------| ----------- | -------------------|
+| Damilola Ezekiel   | https://dharmelolar.hashnode.dev| [@that_yhemmygirl](https://twitter.com/that_yhemmygirl)
+| Tom Johnson   | https://idratherbewriting.com/|[@tomjohnson](https://twitter.com/tomjohnson)
+| Kesi Parker   | https://medium.com/@kesiparker| [@ParkerKesi](https://twitter.com/ParkerKesi)
+| Tania Rascia  | https://tania.dev/| [@taniarascia](https://twitter.com/taniarascia)
+| Dillion Megida | https://writing.dillionmegida.com/| [@iamdillion](https://twitter.com/iamdillion)
+| Linda Ikechukwu| https://www.everythingtechnicalwriting.com| [_MsLinda](https://twitter.com/_MsLinda)
+| Amruta Ranade| https://dev.to/amrutaranade | [@AmrutaRanade](https://twitter.com/AmrutaRanade)
 
 ## Preparing for technical writing interviews 
 
