@@ -148,7 +148,7 @@ There are several tips that can help you land an interview but some of the impor
 - [Cover Letter Template for your next job ](https://dillionmegida.com/p/cover-letter-template/)
 - [How to Write an Enticing Cover Letter](https://ruthikegah.xyz/how-to-write-an-enticing-cover-letter)
 - [How to Write a Technical Writer Resume [+Examples]](https://technicalwriterhq.com/technical-writer-resume/)
-
+- [Best Technical Writer Cover Letter Example and Format ](https://technicalwriterhq.com/technical-writer-cover-letter/)
 
 Here are some resources to technical writing interview questions to help you prepare for your next interview.
 
