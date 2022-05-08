@@ -150,6 +150,15 @@ There are several tips that can help you land an interview but some of the impor
 - [How to Write a Technical Writer Resume [+Examples]](https://technicalwriterhq.com/technical-writer-resume/)
 
 
+Here are some resources to technical writing interview questions to help you prepare for your next interview.
+
 - [12 Technical Writer Interview Questions and Answers](https://technicalwriterhq.com/technical-writer-interview-questions/)
 - [Google Technical Writer Interview Questions](https://technicalwriterhq.com/google-technical-writer-interview-questions/)
 - [Technical Writing Job Interview](https://www.youtube.com/watch?v=cqaEgMv2JAg)
+
+
+## Job Boards For Technical Writing roles
+
+- []()
+- []()
+- []()
