@@ -37,6 +37,7 @@ This repository contains different technical writing resources that has been gat
  - [How To Create A Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
  - [Writing Tips for Software Developers – How to Become a Better Tech Writer](https://www.freecodecamp.org/news/writing-tips-software-developers/)
  - [11 Best Practices for Writing API Documentation](https://treblle.com/blog/11-best-practices-for-writing-api-documentation)
+ - [Technical Writing vs Technical Blogging](https://lo-victoria.com/what-you-need-to-know-about-technical-writing-vs-technical-blogging#cknj3ppa30d7m2ks14c8o0vnf)
 
 
 ## Books
@@ -142,8 +143,13 @@ Here are some articles to help you understand how to contribute to open source p
 | Amruta Ranade| https://dev.to/amrutaranade | [@AmrutaRanade](https://twitter.com/AmrutaRanade)
 
 ## Preparing for technical writing interviews 
+There are several tips that can help you land an interview but some of the important ones are having a well tailored resume and cover letters. Check out these cover letter templates and tips to help you land your next interview:
+
+- [Cover Letter Template for your next job ](https://dillionmegida.com/p/cover-letter-template/)
+- [How to Write an Enticing Cover Letter](https://ruthikegah.xyz/how-to-write-an-enticing-cover-letter)
+- [How to Write a Technical Writer Resume [+Examples]](https://technicalwriterhq.com/technical-writer-resume/)
+
 
 - [12 Technical Writer Interview Questions and Answers](https://technicalwriterhq.com/technical-writer-interview-questions/)
 - [Google Technical Writer Interview Questions](https://technicalwriterhq.com/google-technical-writer-interview-questions/)
 - [Technical Writing Job Interview](https://www.youtube.com/watch?v=cqaEgMv2JAg)
-- 
