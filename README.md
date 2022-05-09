@@ -1,6 +1,7 @@
 <div  align="center" >
 <img src="https://res.cloudinary.com/dharme/image/upload/v1652064464/Copy_of_Dx_kxd5ty.png" width="400" height="300"/>
 </div>
+
 #### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid understanding of the technology you're writing about.
 
 
