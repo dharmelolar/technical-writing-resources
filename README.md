@@ -1,4 +1,4 @@
-### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid understanding of the technology you're writing about
+#### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid understanding of the technology you're writing about.
 
 
 
@@ -159,10 +159,9 @@ Here are some resources to technical writing interview questions to help you pre
 
 ## Job Boards For Technical Writing roles
 
-- []()
-- []()
-- []()
+- [Startup.jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter)
+- [Angel.co](https://angel.co/jobs)
 
 ## 
 
-<p style="text-align:center">Made with ❤️ by Damilola Ezekiel</p>
+<p align="center">Made with ❤️ by <a href="https://twitter.com/that_yhemmygirl">Damilola Ezekiel</a> </p>
