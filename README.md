@@ -2,7 +2,7 @@
 <img src="https://res.cloudinary.com/dharme/image/upload/v1652064464/Copy_of_Dx_kxd5ty.png" width="400" height="300"/>
 </div>
 
-#### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer,sharing your knowledge and expereince with people helps you affirm that you have a solid understanding of the technology you're writing about.
+#### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer, sharing your knowledge and experience with people helps you affirm that you have a solid understanding of the technology you're writing about.
 
 
 
@@ -20,7 +20,7 @@
   - [Communities](#communities)
   - [Tools](#tools)
   - [Who pays technical writers](#Who-pays-technical-writers)
-  - [open source projects](#open-source-projects)
+  - [Open source projects](#open-source-projects)
   - [Awesome technical writers](#Awesome-technical-writers)
   - [Blogs to follow for awesome writing contents](#Blogs-to-follow-for-awesome-writing-contents)
   - [Preparing for technical writing interviews](#Preparing-for-technical-writing-interviews)
@@ -107,7 +107,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 
 ## Who pays technical writers
 
-Writing technical contents for organizations and publications is an excellent way to earn extra income. This way, you learn a lot,then share your knowledge and get paid. Check out these compiled list for organizations that pays technical writers.
+Writing technical contents for organizations and publications is an excellent way to earn extra income. This way, you learn a lot, then share your knowledge and get paid. Check out these compiled list for organizations that pays technical writers.
 
 - [Community writer program](https://github.com/malgamves/CommunityWriterPrograms)
 - [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
