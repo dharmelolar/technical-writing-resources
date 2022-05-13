@@ -163,11 +163,11 @@ Here are some resources to technical writing interview questions to help you pre
 
 ## Sites to publish articles
 
-- Hashnode
-- Medium
-- Dev.to
-- Mirror.xyz
-- Freecodecamp
+- [Hashnode](https://hashnode.com/)
+- [Medium](https://medium.com/)
+- [Dev.to](https://dev.to/)
+- [Mirror.xyz](https://mirror.xyz/)
+- [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/)
 ## Job Boards For Technical Writing roles
 
 - [Startup.jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter)
