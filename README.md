@@ -24,6 +24,7 @@
   - [Awesome technical writers](#Awesome-technical-writers)
   - [Blogs to follow for awesome writing contents](#Blogs-to-follow-for-awesome-writing-contents)
   - [Preparing for technical writing interviews](#Preparing-for-technical-writing-interviews)
+  - [Sites to publish articles](#sites-to-publish-your-articles)
   - [Job boards for technical writing roles](#Job-boards-for-technical-writing-roles)
 
 ## Resources
@@ -160,7 +161,13 @@ Here are some resources to technical writing interview questions to help you pre
 - [Google Technical Writer Interview Questions](https://technicalwriterhq.com/google-technical-writer-interview-questions/)
 - [Technical Writing Job Interview](https://www.youtube.com/watch?v=cqaEgMv2JAg)
 
+## Sites to publish articles
 
+- Hashnode
+- Medium
+- Dev.to
+- Mirror.xyz
+- Freecodecamp
 ## Job Boards For Technical Writing roles
 
 - [Startup.jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter)
