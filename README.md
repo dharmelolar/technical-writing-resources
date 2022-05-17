@@ -98,6 +98,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Removebg](https://www.remove.bg/) ~ A tools that is used to remove image backgrounds.
 - [Markdown](https://daringfireball.net/projects/markdown/) ~ Markdown is a text-to-HTML conversion tool for web writers.
 - [AsciiDoc](https://asciidoc.org/) ~ AsciiDoc is a lightweight and semantic markup language primarily designed for writing technical documentation. 
+- [Denigma](https://denigma.app/) ~ Denigma is a toll that explains code in understandable english.
 - [Grammarly](https://app.grammarly.com/) ~ Grammarly is a typing assistant that reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes.
 - [Hemingway App ](https://hemingwayapp.com/) ~ The Hemingway App is a web and desktop app that can improve your writing style and touch up your content.
 - [Notion](https://www.notion.so/) ~ Notion is an all-in-one workspace for your notes, tasks, wikis, and databases. It is a tool you can use to organize your thoughts, projects, and information.
@@ -167,7 +168,9 @@ Here are some resources to technical writing interview questions to help you pre
 - [Medium](https://medium.com/) ~ Medium is a social publishing platform with lots of users and you can publish diverse contents and ideas. 
 - [Dev.to](https://dev.to/) ~  Dev.to is where programmers share ideas and help each other grow. It is an online community for sharing and discovering great ideas.
 - [Mirror.xyz](https://mirror.xyz/) ~ Mirror.xyz is a publishing platform for writers that leverages cryptocurrency and blockchain technology. 
-- [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/) ~ FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone
+- [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/) ~ FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
+  
+  
 ## Job Boards For Technical Writing roles
 
 - [Startup.jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter)
