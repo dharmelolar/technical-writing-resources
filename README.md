@@ -101,6 +101,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Denigma](https://denigma.app/) ~ Denigma is a tool that explains code in understandable english.
 - [Grammarly](https://app.grammarly.com/) ~ Grammarly is a typing assistant that reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes.
 - [Hemingway App ](https://hemingwayapp.com/) ~ The Hemingway App is a web and desktop app that can improve your writing style and touch up your content.
+- [Quillbot AI](https://quillbot.com/) ~ Quillbot AI is a multi-purpose writing tool that can assist in improving your writing style. Some of its products are Paraphraser, Grammar Checker, Plagiarism Checker, Co-Writer, Summarizer, Citation Generator, and Word Counter. 
 - [Notion](https://www.notion.so/) ~ Notion is an all-in-one workspace for your notes, tasks, wikis, and databases. It is a tool you can use to organize your thoughts, projects, and information.
 - [Dropbox Paper](https://www.dropbox.com/paper) ~ Dropbox Paper is an online document workspace, where you can organize and display text, media, and files all in one place.
 - [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) ~ A chrome extension taht allows you take full page screenshot of your current browser window.
