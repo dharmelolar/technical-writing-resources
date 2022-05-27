@@ -107,6 +107,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) ~ A chrome extension taht allows you take full page screenshot of your current browser window.
 - [Carbon](https://carbon.now.sh/) ~ Carbon is the easiest way to create and share beautiful images of your source code.
 - [Isitwp](https://www.isitwp.com/headline-analyzer) ~ IsItWP Headline Analyzer tool helps you write headlines that drive traffic, shares and rank better in search results.
+- [Capitalize my title](https://capitalizemytitle.com/) ~ Making title capitalization easy for your writing 
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune turns text into concise, engaging, well-written messages.
 
 ## Who pays technical writers
