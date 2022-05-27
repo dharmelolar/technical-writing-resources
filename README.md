@@ -109,6 +109,11 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Isitwp](https://www.isitwp.com/headline-analyzer) ~ IsItWP Headline Analyzer tool helps you write headlines that drive traffic, shares and rank better in search results.
 - [Capitalize my title](https://capitalizemytitle.com/) ~ Making title capitalization easy for your writing 
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune turns text into concise, engaging, well-written messages.
+- [Headline Analyzer](https://coschedule.com/headline-analyzer) ~ Write Headlines That Drive Traffic, Shares, And Search Results.
+- [Title Generator](https://tweakyourbiz.com/title-generator) ~ Generate great titles for articles and blog posts.
+- [SEO writing assistant](https://www.semrush.com/swa/) ~ A smart writing editor that helps you optimize your copy for engagement and SEO.
+- [HackMD](https://hackmd.io/) ~ A collaborative markdown editor for sharing your articles and getting feedback from others.
+- [Copyscape](https://www.copyscape.com/) ~ Plagiarism checker
 
 ## Who pays technical writers
 
