@@ -10,20 +10,22 @@
 
 ## Outline
 
+- [What is Technical Writing?](#what-is-technical-writing)
+- [Outline](#outline)
 - [Resources](#resources)
-  - [Books](#books)
-  - [Articles](#articles)
-  - [Courses](#Courses)
-  - [Youtube](#Youtube)
+- [Articles](#articles)
+- [Books](#books)
+- [Courses](#courses)
+- [Youtube](#youtube)
 - [Communities](#communities)
 - [Tools](#tools)
-- [Who pays technical writers](#Who-pays-technical-writers)
-- [Open source projects](#open-source-projects)
-- [Awesome technical writers](#Awesome-technical-writers)
-- [Blogs to follow for awesome writing contents](#Blogs-to-follow-for-awesome-writing-contents)
-- [Preparing for technical writing interviews](#Preparing-for-technical-writing-interviews)
-- [Sites to publish articles](#sites-to-publish-your-articles)
-- [Job boards for technical writing roles](#Job-boards-for-technical-writing-roles)
+- [Who pays technical writers](#who-pays-technical-writers)
+- [Open Source Projects](#open-source-projects)
+    - [Open Source Projects/Programs Technical Writers Can Contribute To](#open-source-projectsprograms-technical-writers-can-contribute-to)
+- [Blogs to follow for awesome writing contents](#blogs-to-follow-for-awesome-writing-contents)
+- [Preparing for technical writing interviews](#preparing-for-technical-writing-interviews)
+- [Sites to publish articles](#sites-to-publish-articles)
+- [Job Boards For Technical Writing roles](#job-boards-for-technical-writing-roles)
 
 ## Resources
 
@@ -113,6 +115,8 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [HackMD](https://hackmd.io/) ~ A collaborative markdown editor for sharing your articles and getting feedback from others.
 - [Copyscape](https://www.copyscape.com/) ~ Plagiarism checker
 - [MarkDoc](https://markdoc.io/) ~ A superset of Markdown for creating custom documentation websites. It was created by Stripe and made open source in May 2022.
+- [Wordtune](https://www.wordtune.com/) ~ Wordtune is  an AI- powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
+
 
 ## Who pays technical writers
 
