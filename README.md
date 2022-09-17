@@ -118,7 +118,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [MarkDoc](https://markdoc.io/) ~ A superset of Markdown for creating custom documentation websites. It was created by Stripe and made open source in May 2022.
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune is  an AI- powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
 - [Power Thesaurus](https://www.powerthesaurus.org/) ~ Power Thesaurus is an online thesaurus for writers that is free, fast, comprehensive, and simple to use. It can help you find synonyms and acronyms.
-- [Lose the Very](https://www.losethevery.com/) ~ A tool that helps youu replace words like "Very Good".
+- [Lose the Very](https://www.losethevery.com/) ~ A tool that helps you replace words like "Very Good".
 
 ## Who pays technical writers
 
