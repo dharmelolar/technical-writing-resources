@@ -91,6 +91,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [The Good Docs Project Community](https://thegooddocsproject.dev/community/)
 - [Techwriters.dev](https://techwriters.dev/)
 - [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
+- [Inked-in](https://geller99.medium.com/inked-in-what-is-it-and-why-is-everyone-talking-about-it-daba7c0a8b15)
 
 ## Tools
 
@@ -116,7 +117,8 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Copyscape](https://www.copyscape.com/) ~ Plagiarism checker
 - [MarkDoc](https://markdoc.io/) ~ A superset of Markdown for creating custom documentation websites. It was created by Stripe and made open source in May 2022.
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune is  an AI- powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
-
+- [Power Thesaurus](https://www.powerthesaurus.org/) ~ Power Thesaurus is an online thesaurus for writers that is free, fast, comprehensive, and simple to use. It can help you find synonyms and acronyms.
+- [Lose the Very](https://www.losethevery.com/) ~ A tool that helps you replace words like "Very Good".
 
 ## Who pays technical writers
 
@@ -185,6 +187,7 @@ Here are some resources to technical writing interview questions to help you pre
 - [Startup.jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter)
 - [Angel.co](https://angel.co/jobs)
 - [Content Writing Jobs](https://contentwritingjobs.com/)
+- [Write the Docs Job Board](https://jobs.writethedocs.org/)
 
 ##
 
