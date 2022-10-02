@@ -190,5 +190,7 @@ Here are some resources to technical writing interview questions to help you pre
 - [Write the Docs Job Board](https://jobs.writethedocs.org/)
 
 ##
-
+<footer>
+&copy;<em>2022</em>Damilola Ezekiel
 <p align="center">Made with ❤️ by <a href="https://twitter.com/that_yhemmygirl">Damilola Ezekiel</a> </p>
+</footer>
