@@ -16,7 +16,7 @@ All forms of contributions are welcomed. Here are some ways to get started with 
 ## Getting Started
 
 - Fork the repository on GitHub.
-- Clone the forked repository, onto your local system:
+- Clone the forked repository, into your local system:
   - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Desktop.
   - Once Desktop is set up, you can use it to [fork the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
 - Create a working branch and start with your changes!
