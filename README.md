@@ -120,7 +120,17 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune is  an AI- powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
 - [Power Thesaurus](https://www.powerthesaurus.org/) ~ Power Thesaurus is an online thesaurus for writers that is free, fast, comprehensive, and simple to use. It can help you find synonyms and acronyms.
 - [Lose the Very](https://www.losethevery.com/) ~ A tool that helps you replace words like "Very Good".
+
 - [Unsplash](https://unsplash.com/) ~ A free and safe image source for your content, without running into copyright issues.
+- [Blackbox](https://www.useblackbox.io/landingPage) ~ It is the fastest way to copy text from videos, images, PDFs, anything.
+- [Overleaf](https://www.overleaf.com/) ~ An online LaTeX editor that's easy to use an mainly used to make CV.
+- [Linktree](https://linktr.ee/) ~ It is a tool that allows you to share multiple links.
+- [Slidesgo](https://slidesgo.com/) ~ Helps in finding some crazy PPT templates.
+- [Wallpaper haven](https://wallhaven.cc/) ~ High resolution wallpapers.
+- [Flaticon](https://www.flaticon.com/) ~ High quality stickers and icons for free.
+- [Magic Eraser](https://www.magiceraser.io/) ~ Removes any unwanted item from your image.
+- [Jenni Ai](https://jenni.ai/) ~ An AI auto-writing tool that automatically writes your essays and emails for you.
+- [Flowcode](https://www.flowcode.com/codes) ~ Create Dynamic QR Code for free with no restrictions.
 
 ## Who pays technical writers
 
@@ -183,6 +193,18 @@ Here are some resources to technical writing interview questions to help you pre
 - [Dev.to](https://dev.to/) ~ Dev.to is where programmers share ideas and help each other grow. It is an online community for sharing and discovering great ideas.
 - [Mirror.xyz](https://mirror.xyz/) ~ Mirror.xyz is a publishing platform for writers that leverages cryptocurrency and blockchain technology.
 - [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/) ~ FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
+
+## Types of Technical-writing
+- Instruction manuals
+- Proposals
+- Reports
+- Posters and Visual Communication
+- Technical Descriptions
+- Product Recalls
+- White Papers
+
+
+
 
 ## Job Boards For Technical Writing roles
 
