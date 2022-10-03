@@ -45,6 +45,7 @@ This repository contains different technical writing resources that has been gat
 - [Writing Tips for Software Developers – How to Become a Better Tech Writer](https://www.freecodecamp.org/news/writing-tips-software-developers/)
 - [11 Best Practices for Writing API Documentation](https://treblle.com/blog/11-best-practices-for-writing-api-documentation)
 - [Technical Writing vs Technical Blogging](https://lo-victoria.com/what-you-need-to-know-about-technical-writing-vs-technical-blogging#cknj3ppa30d7m2ks14c8o0vnf)
+- [How to avoid Plagiarism in Technical Writing](https://www.grammarly.com/blog/5-most-effective-methods-for-avoiding-plagiarism/)
 
 ## Books
 
@@ -119,6 +120,8 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune is  an AI- powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
 - [Power Thesaurus](https://www.powerthesaurus.org/) ~ Power Thesaurus is an online thesaurus for writers that is free, fast, comprehensive, and simple to use. It can help you find synonyms and acronyms.
 - [Lose the Very](https://www.losethevery.com/) ~ A tool that helps you replace words like "Very Good".
+
+- [Unsplash](https://unsplash.com/) ~ A free and safe image source for your content, without running into copyright issues.
 - [Blackbox](https://www.useblackbox.io/landingPage) ~ It is the fastest way to copy text from videos, images, PDFs, anything.
 - [Overleaf](https://www.overleaf.com/) ~ An online LaTeX editor that's easy to use an mainly used to make CV.
 - [Linktree](https://linktr.ee/) ~ It is a tool that allows you to share multiple links.
