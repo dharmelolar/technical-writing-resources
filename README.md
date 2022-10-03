@@ -45,6 +45,7 @@ This repository contains different technical writing resources that has been gat
 - [Writing Tips for Software Developers – How to Become a Better Tech Writer](https://www.freecodecamp.org/news/writing-tips-software-developers/)
 - [11 Best Practices for Writing API Documentation](https://treblle.com/blog/11-best-practices-for-writing-api-documentation)
 - [Technical Writing vs Technical Blogging](https://lo-victoria.com/what-you-need-to-know-about-technical-writing-vs-technical-blogging#cknj3ppa30d7m2ks14c8o0vnf)
+- [How to avoid Plagiarism in Technical Writing](https://www.grammarly.com/blog/5-most-effective-methods-for-avoiding-plagiarism/)
 
 ## Books
 
