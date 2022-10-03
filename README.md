@@ -182,14 +182,14 @@ Here are some resources to technical writing interview questions to help you pre
 - [Mirror.xyz](https://mirror.xyz/) ~ Mirror.xyz is a publishing platform for writers that leverages cryptocurrency and blockchain technology.
 - [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/) ~ FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
 
-## 7 Types of Technical-writing
-- instruction manuals
-- proposals
-- reports
-- posters and visual communication
-- technical descriptions
-- product recalls
-- white papers
+## Types of Technical-writing
+- Instruction manuals
+- Proposals
+- Reports
+- Posters and Visual Communication
+- Technical Descriptions
+- Product Recalls
+- White Papers
 
 
 
