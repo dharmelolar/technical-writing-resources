@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <div  align="center" >
 <img src="https://res.cloudinary.com/dharme/image/upload/v1652064464/Copy_of_Dx_kxd5ty.png" width="400" height="300"/>
 </div>
@@ -27,6 +28,8 @@
 - [Sites to publish articles](#sites-to-publish-articles)
 - [Job Boards For Technical Writing roles](#job-boards-for-technical-writing-roles)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Resources
 
 This repository contains different technical writing resources that has been gathered from all around the internet
@@ -47,6 +50,8 @@ This repository contains different technical writing resources that has been gat
 - [Technical Writing vs Technical Blogging](https://lo-victoria.com/what-you-need-to-know-about-technical-writing-vs-technical-blogging#cknj3ppa30d7m2ks14c8o0vnf)
 - [How to avoid Plagiarism in Technical Writing](https://www.grammarly.com/blog/5-most-effective-methods-for-avoiding-plagiarism/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Books
 
 - [Writing Well](https://www.julian.com/guide/write/intro) ~ Julian Shapiro
@@ -60,6 +65,8 @@ This repository contains different technical writing resources that has been gat
 - [On Writing Well](https://www.amazon.com/gp/product/0060891548/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060891548&linkId=27bd72a8da3fb242b39dbe4edb470daf) ~ William Zinsser
 - [Technical Communication](https://www.amazon.com/Technical-Communication-Mike-Markel-dp-1319245005/dp/1319245005/ref=dp_ob_image_bk) ~ Mike Markel
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Courses
 
 - [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
@@ -71,6 +78,8 @@ This repository contains different technical writing resources that has been gat
 - [SEO FOR DEVS](https://seofordevs.com/) ~ SEO FOR DEVS is a free 2 weeks course that helps people discover your tech blog or side project in a systematic way
 - [API Documentation for Developers](https://apidocsfordevs.com/) ~ A hands-on guide to creating and maintaining API documentation.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Youtube
 
 - [DocToHelpTV](https://www.youtube.com/user/DocToHelpTV/videos)
@@ -78,6 +87,8 @@ This repository contains different technical writing resources that has been gat
 - [Amruta Ranade](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA)
 - [William Smith](https://www.youtube.com/watch?v=amKDhaIlyOc)
 - [How to become a Technical Writer | Skills & Career Growth](youtube.com/watch?v=8l2KJXIBpB0)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Communities
 
@@ -93,6 +104,8 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Techwriters.dev](https://techwriters.dev/)
 - [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 - [Inked-in](https://geller99.medium.com/inked-in-what-is-it-and-why-is-everyone-talking-about-it-daba7c0a8b15)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Tools
 
@@ -132,6 +145,8 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Jenni Ai](https://jenni.ai/) ~ An AI auto-writing tool that automatically writes your essays and emails for you.
 - [Flowcode](https://www.flowcode.com/codes) ~ Create Dynamic QR Code for free with no restrictions.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Who pays technical writers
 
 Writing technical contents for organizations and publications is an excellent way to earn extra income. This way, you learn a lot, then share your knowledge and get paid. Check out these compiled list for organizations that pays technical writers.
@@ -139,6 +154,8 @@ Writing technical contents for organizations and publications is an excellent wa
 - [Community writer program](https://github.com/malgamves/CommunityWriterPrograms)
 - [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
 - [Publications That Pay You To Write Technical Articles](https://catalins.tech/websites-that-pay-you-to-write-technical-articles)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Open Source Projects
 
@@ -151,6 +168,8 @@ Here are some articles to help you understand how to contribute to open source p
 - [4 tips to becoming a technical writer with open source contributions](https://opensource.com/article/21/11/technical-writing-open-source)
 - [Getting started with Open Source as a Technical Writer](https://amara.hashnode.dev/getting-started-with-open-source-as-a-technical-writer)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 #### Open Source Projects/Programs Technical Writers Can Contribute To
 
 - [Codecademy Docs](https://www.codecademy.com/resources/docs) ~ Docs is a community-driven collection of code documentation for popular programming languages and frameworks.
@@ -158,6 +177,8 @@ Here are some articles to help you understand how to contribute to open source p
 - [Google Season of Docs](https://developers.google.com/season-of-docs) ~ Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) ~ Hacktoberfest is a yearly event to encourage people to contribute to open source in October.
 - [The GNOME Documentation Project](https://wiki.gnome.org/DocumentationProject)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Blogs to follow for awesome writing contents
 
@@ -170,6 +191,8 @@ Here are some articles to help you understand how to contribute to open source p
 | Dillion Megida    | https://writing.dillionmegida.com/         | [@iamdillion](https://twitter.com/iamdillion)           |
 | Linda Ikechukwu   | https://www.everythingtechnicalwriting.com | [\_MsLinda](https://twitter.com/_MsLinda)               |
 | Amruta Ranade     | https://dev.to/amrutaranade                | [@AmrutaRanade](https://twitter.com/AmrutaRanade)       |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Preparing for technical writing interviews
 
@@ -186,6 +209,8 @@ Here are some resources to technical writing interview questions to help you pre
 - [Google Technical Writer Interview Questions](https://technicalwriterhq.com/google-technical-writer-interview-questions/)
 - [Technical Writing Job Interview](https://www.youtube.com/watch?v=cqaEgMv2JAg)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Sites to publish articles
 
 - [Hashnode](https://hashnode.com/) ~ Hashnode is a free developer blogging platform to help you share your ideas with people in tech, developers, and engineers.
@@ -193,6 +218,8 @@ Here are some resources to technical writing interview questions to help you pre
 - [Dev.to](https://dev.to/) ~ Dev.to is where programmers share ideas and help each other grow. It is an online community for sharing and discovering great ideas.
 - [Mirror.xyz](https://mirror.xyz/) ~ Mirror.xyz is a publishing platform for writers that leverages cryptocurrency and blockchain technology.
 - [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/) ~ FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Types of Technical-writing
 - Instruction manuals
@@ -204,6 +231,7 @@ Here are some resources to technical writing interview questions to help you pre
 - White Papers
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Job Boards For Technical Writing roles
@@ -212,6 +240,8 @@ Here are some resources to technical writing interview questions to help you pre
 - [Angel.co](https://angel.co/jobs)
 - [Content Writing Jobs](https://contentwritingjobs.com/)
 - [Write the Docs Job Board](https://jobs.writethedocs.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ##
 <footer>
