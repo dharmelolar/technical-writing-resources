@@ -6,7 +6,7 @@
 
 ## How do I make contributions
 
-All forms of contributions are welcomed. Here are some ways to get started with making contributions
+All forms of contributions are welcomed. Here are some ways to get started with making contributions-
 
 - Fixing typos in the repository
 - Submit a typo/bug in GitHub Issues.
@@ -23,14 +23,14 @@ All forms of contributions are welcomed. Here are some ways to get started with 
 
 ## Guidelines for contributing
 
-- Pull requests should be descriptive
+- Pull requests should be descriptive.
 - Proofread for spelling and grammar errors before raising a pull request.
-- Use desriptive commit messages.
+- Use descriptive commit messages.
 - If you're suggesting a very big change, kindly open an issue first.
 
 ## Contribution Flow
 
-This is a outline of what a contributor's workflow looks like:
+This is an outline of what a contributor's workflow looks like:
 
 - Create a separate branch from `master` branch to base your work.
 - Make commits of logical units.
@@ -59,7 +59,7 @@ When you're finished with the changes, create a pull request, also known as a PR
 - As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 - If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
 
-Thanks for your contributions!
+Thanks for your contribution!
 
 
 <hr>
