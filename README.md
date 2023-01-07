@@ -46,9 +46,10 @@ This repository contains different technical writing resources that has been gat
 - [How To Write Content That Readers Will Read Based On Learnings From User Psychology](https://www.everythingtechnicalwriting.com/how-to-write-content-that-readers-will-read/)
 - [How To Create A Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
 - [Writing Tips for Software Developers – How to Become a Better Tech Writer](https://www.freecodecamp.org/news/writing-tips-software-developers/)
-- [11 Best Practices for Writing API Documentation](https://treblle.com/blog/11-best-practices-for-writing-api-documentation)
+- [11 Best Practices for Writing API Documentation](https://blog.treblle.com/11-best-practices-for-writing-api-documentation/)
 - [Technical Writing vs Technical Blogging](https://lo-victoria.com/what-you-need-to-know-about-technical-writing-vs-technical-blogging#cknj3ppa30d7m2ks14c8o0vnf)
 - [How to avoid Plagiarism in Technical Writing](https://www.grammarly.com/blog/5-most-effective-methods-for-avoiding-plagiarism/)
+- [How to Write an Interesting Technical Article](https://www.red-gate.com/simple-talk/how-to-write-an-interesting-technical-article/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
