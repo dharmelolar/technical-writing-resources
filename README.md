@@ -65,6 +65,7 @@ This repository contains different technical writing resources that has been gat
 - [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.amazon.com/gp/product/1118905555/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118905555&linkId=5a9769d7dc1a62419abb83e6b451ac96) ~ Ann Handley
 - [On Writing Well](https://www.amazon.com/gp/product/0060891548/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060891548&linkId=27bd72a8da3fb242b39dbe4edb470daf) ~ William Zinsser
 - [Technical Communication](https://www.amazon.com/Technical-Communication-Mike-Markel-dp-1319245005/dp/1319245005/ref=dp_ob_image_bk) ~ Mike Markel
+- [Technical Documentation Short and Sweet](https://www.amazon.com/-/de/dp/3943860159/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=MGLQHMF9AV7F&keywords=Achtelig&qid=1686230546&s=books&sprefix=achtelig%2Cstripbooks-intl-ship%2C218&sr=1-7) ~ Marc Achtelig
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,6 +111,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 
 ## Tools
 
+- [Help authoring tools and content management systems for technical documentation](https://www.indoition.com/online-help-authoring-tools-survey.htm) ~ Very comprehensive market overview of authoring systems for creating technical documentation, such as online help, online documentation, and printed documents (PDF).
 - [Canva](https://www.canva.com/) ~ Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
 - [Removebg](https://www.remove.bg/) ~ A tools that is used to remove image backgrounds.
 - [Markdown](https://daringfireball.net/projects/markdown/) ~ Markdown is a text-to-HTML conversion tool for web writers.
