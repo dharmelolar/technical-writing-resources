@@ -66,6 +66,7 @@ This repository contains different technical writing resources that has been gat
 - [On Writing Well](https://www.amazon.com/gp/product/0060891548/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060891548&linkId=27bd72a8da3fb242b39dbe4edb470daf) ~ William Zinsser
 - [Technical Communication](https://www.amazon.com/Technical-Communication-Mike-Markel-dp-1319245005/dp/1319245005/ref=dp_ob_image_bk) ~ Mike Markel
 - [Technical Documentation Short and Sweet](https://www.amazon.com/-/de/dp/3943860159/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=MGLQHMF9AV7F&keywords=Achtelig&qid=1686230546&s=books&sprefix=achtelig%2Cstripbooks-intl-ship%2C218&sr=1-7) ~ Marc Achtelig
+- [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
