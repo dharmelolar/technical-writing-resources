@@ -90,7 +90,7 @@ This repository contains different technical writing resources that has been gat
 - [Amruta Ranade](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA)
 - [William Smith](https://www.youtube.com/watch?v=amKDhaIlyOc)
 - [How to become a Technical Writer | Skills & Career Growth](youtube.com/watch?v=8l2KJXIBpB0)
-- [All about technical writing w/ Linda Ikechukwu](https://www.youtube.com/live/JE0d00KdxXg?si=Ef0MRpOUxyw6xz37)
+- [All about technical writing with Linda Ikechukwu](https://www.youtube.com/live/JE0d00KdxXg?si=Ef0MRpOUxyw6xz37)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Communities
