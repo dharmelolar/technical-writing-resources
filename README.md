@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 <div  align="center" >
 <img src="https://res.cloudinary.com/dharme/image/upload/v1652064464/Copy_of_Dx_kxd5ty.png" width="400" height="300"/>
 </div>
@@ -20,13 +19,13 @@
 - [Youtube](#youtube)
 - [Communities](#communities)
 - [Writing Tools](#writing-tools)
+- [Documentation Tools](#documentation-tools)
 - [Who pays technical writers](#who-pays-technical-writers)
 - [Open Source Projects](#open-source-projects)
     - [Open Source Projects/Programs Technical Writers Can Contribute To](#open-source-projectsprograms-technical-writers-can-contribute-to)
 - [Blogs to follow for awesome writing contents](#blogs-to-follow-for-awesome-writing-contents)
 - [Preparing for technical writing interviews](#preparing-for-technical-writing-interviews)
 - [Sites to publish articles](#sites-to-publish-articles)
-- [Types of Technical-writing](#types-of-technical-writing)
 - [Job Boards For Technical Writing roles](#job-boards-for-technical-writing-roles)
 - [](#)
 
@@ -47,12 +46,8 @@ This repository contains different technical writing resources that has been gat
 - [How To Write Content That Readers Will Read Based On Learnings From User Psychology](https://www.everythingtechnicalwriting.com/how-to-write-content-that-readers-will-read/)
 - [How To Create A Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
 - [Writing Tips for Software Developers – How to Become a Better Tech Writer](https://www.freecodecamp.org/news/writing-tips-software-developers/)
-- [11 Best Practices for Writing API Documentation](https://blog.treblle.com/11-best-practices-for-writing-api-documentation/)
+- [11 Best Practices for Writing API Documentation](https://treblle.com/blog/11-best-practices-for-writing-api-documentation)
 - [Technical Writing vs Technical Blogging](https://lo-victoria.com/what-you-need-to-know-about-technical-writing-vs-technical-blogging#cknj3ppa30d7m2ks14c8o0vnf)
-- [How to avoid Plagiarism in Technical Writing](https://www.grammarly.com/blog/5-most-effective-methods-for-avoiding-plagiarism/)
-- [How to Write an Interesting Technical Article](https://www.red-gate.com/simple-talk/how-to-write-an-interesting-technical-article/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Books
 
@@ -66,10 +61,6 @@ This repository contains different technical writing resources that has been gat
 - [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.amazon.com/gp/product/1118905555/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118905555&linkId=5a9769d7dc1a62419abb83e6b451ac96) ~ Ann Handley
 - [On Writing Well](https://www.amazon.com/gp/product/0060891548/ref=as_li_tl?ie=UTF8&tag=techlife09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060891548&linkId=27bd72a8da3fb242b39dbe4edb470daf) ~ William Zinsser
 - [Technical Communication](https://www.amazon.com/Technical-Communication-Mike-Markel-dp-1319245005/dp/1319245005/ref=dp_ob_image_bk) ~ Mike Markel
-- [Technical Documentation Short and Sweet](https://www.amazon.com/-/de/dp/3943860159/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=MGLQHMF9AV7F&keywords=Achtelig&qid=1686230546&s=books&sprefix=achtelig%2Cstripbooks-intl-ship%2C218&sr=1-7) ~ Marc Achtelig
-- [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Courses
 
@@ -82,8 +73,6 @@ This repository contains different technical writing resources that has been gat
 - [SEO FOR DEVS](https://seofordevs.com/) ~ SEO FOR DEVS is a free 2 weeks course that helps people discover your tech blog or side project in a systematic way
 - [API Documentation for Developers](https://apidocsfordevs.com/) ~ A hands-on guide to creating and maintaining API documentation.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Youtube
 
 - [DocToHelpTV](https://www.youtube.com/user/DocToHelpTV/videos)
@@ -91,8 +80,6 @@ This repository contains different technical writing resources that has been gat
 - [Amruta Ranade](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA)
 - [William Smith](https://www.youtube.com/watch?v=amKDhaIlyOc)
 - [How to become a Technical Writer | Skills & Career Growth](youtube.com/watch?v=8l2KJXIBpB0)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Communities
 
@@ -109,13 +96,9 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [The Good Docs Project Community](https://thegooddocsproject.dev/community/)
 - [Techwriters.dev](https://techwriters.dev/)
 - [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
-- [Inked-in](https://geller99.medium.com/inked-in-what-is-it-and-why-is-everyone-talking-about-it-daba7c0a8b15)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Writing Tools
 
-- [Help authoring tools and content management systems for technical documentation](https://www.indoition.com/online-help-authoring-tools-survey.htm) ~ Very comprehensive market overview of authoring systems for creating technical documentation, such as online help, online documentation, and printed documents (PDF).
 - [Canva](https://www.canva.com/) ~ Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
 - [Removebg](https://www.remove.bg/) ~ A tools that is used to remove image backgrounds.
 - [Markdown](https://daringfireball.net/projects/markdown/) ~ Markdown is a text-to-HTML conversion tool for web writers.
@@ -139,6 +122,30 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [MarkDoc](https://markdoc.io/) ~ A superset of Markdown for creating custom documentation websites. It was created by Stripe and made open source in May 2022.
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune is  an AI- powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
 
+## Documentation Tools 
+
+- [GitBook](https://www.gitbook.com/) ~ A modern documentation platform where teams can document everything from products to internal knowledge bases and APIs.
+- [Read the Docs](https://readthedocs.org/) ~ An open-source platform for hosting, building, and versioning documentation.
+- [Docusaurus](https://docusaurus.io/) ~ A static site generator that makes it easy to build open-source project websites.
+- [Sphinx](https://www.sphinx-doc.org/) ~ A documentation generator that converts reStructuredText files into HTML websites and other formats.
+- [MkDocs](https://www.mkdocs.org/) ~ A fast, simple, and static site generator that's geared towards building project documentation.
+- [Swagger](https://swagger.io/) ~ A suite of tools for API documentation, including Swagger Editor, Swagger UI, and Swagger Codegen.
+- [Postman](https://www.postman.com/) ~ A collaboration platform for API development that makes it easy to create, share, test, and document APIs.
+- [Slate](https://slatedocs.github.io/slate/) ~ A static site generator specifically designed for API documentation.
+- [Redoc](https://github.com/Redocly/redoc) ~ An open-source tool for generating API documentation from OpenAPI (formerly Swagger) definitions.
+- [Docz](https://www.docz.site/) ~ A tool for writing documentation for your React components with MDX and live-reload support.
+- [Jekyll](https://jekyllrb.com/) ~ A static site generator that transforms plain text into static websites and blogs.
+- [Hugo](https://gohugo.io/) ~ A fast and flexible static site generator written in Go.
+- [Antora](https://antora.org/) ~ A documentation site generator for creating documentation portals and technical documentation websites.
+- [VuePress](https://vuepress.vuejs.org/) ~ A static site generator powered by Vue.js.
+- [Asciidoctor](https://asciidoctor.org/) ~ A fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.
+- [Doxygen](http://www.doxygen.nl/) ~ A documentation generator and static analysis tool for various programming languages.
+- [Natural Docs](http://www.naturaldocs.org/) ~ An open-source documentation generator for multiple programming languages.
+- [Typora](https://typora.io/) ~ A minimal markdown editor that provides seamless live preview and a distraction-free writing environment.
+- [LaTeX](https://www.latex-project.org/) ~ A high-quality typesetting system used for producing technical and scientific documentation.
+- [Confluence](https://www.atlassian.com/software/confluence) ~ A collaboration tool used to help teams collaborate and share knowledge efficiently.
+- [MadCap Flare](https://www.madcapsoftware.com/products/flare/) ~ A comprehensive technical authoring and publishing tool for creating content for various outputs.
+
 
 ## Who pays technical writers
 
@@ -147,8 +154,6 @@ Writing technical contents for organizations and publications is an excellent wa
 - [Community writer program](https://github.com/malgamves/CommunityWriterPrograms)
 - [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
 - [Publications That Pay You To Write Technical Articles](https://catalins.tech/websites-that-pay-you-to-write-technical-articles)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Open Source Projects
 
@@ -162,8 +167,6 @@ Here are some articles to help you understand how to contribute to open source p
 - [4 tips to becoming a technical writer with open source contributions](https://opensource.com/article/21/11/technical-writing-open-source)
 - [Getting started with Open Source as a Technical Writer](https://amara.hashnode.dev/getting-started-with-open-source-as-a-technical-writer)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 #### Open Source Projects/Programs Technical Writers Can Contribute To
 
 - [Codecademy Docs](https://www.codecademy.com/resources/docs) ~ Docs is a community-driven collection of code documentation for popular programming languages and frameworks.
@@ -172,19 +175,15 @@ Here are some articles to help you understand how to contribute to open source p
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) ~ Hacktoberfest is a yearly event to encourage people to contribute to open source in October.
 - [The GNOME Documentation Project](https://wiki.gnome.org/DocumentationProject)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Blogs to follow for awesome writing contents
 
-| Technical Writers | Blogs                                      | Twitter Handle                                          |
-| :---------------- | ------------------------------------------ | ------------------------------------------------------- |
-| Damilola Ezekiel  | https://dharmelolar.hashnode.dev           | [@that_yhemmygirl](https://twitter.com/that_yhemmygirl) |
-| Tom Johnson       | https://idratherbewriting.com/             | [@tomjohnson](https://twitter.com/tomjohnson)           |
-| Kesi Parker       | https://medium.com/@kesiparker             | [@ParkerKesi](https://twitter.com/ParkerKesi)           |
-| Tania Rascia      | https://tania.dev/                         | [@taniarascia](https://twitter.com/taniarascia)         |
-| Dillion Megida    | https://writing.dillionmegida.com/         | [@iamdillion](https://twitter.com/iamdillion)           |
-| Linda Ikechukwu   | https://www.everythingtechnicalwriting.com | [\_MsLinda](https://twitter.com/_MsLinda)               |
-| Amruta Ranade     | https://dev.to/amrutaranade                | [@AmrutaRanade](https://twitter.com/AmrutaRanade)       |
+- [TechWriters Hub](https://medium.com/@techwritershub)
+- [Kesi Parker](https://medium.com/@kesiparker)
+- [IDRatherbewriting](https://idratherbewriting.com/)
+- [Everything Technical Writing](https://www.everythingtechnicalwriting.com)
+- [WriteTech Hub](https://writetechhub.org/blog/)
+- [Hackmamba](https://hackmamba.io/blog/)
+  
 
 ## Preparing for technical writing interviews
 
@@ -201,8 +200,6 @@ Here are some resources to technical writing interview questions to help you pre
 - [Google Technical Writer Interview Questions](https://technicalwriterhq.com/google-technical-writer-interview-questions/)
 - [Technical Writing Job Interview](https://www.youtube.com/watch?v=cqaEgMv2JAg)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Sites to publish articles
 
 - [Hashnode](https://hashnode.com/) ~ Hashnode is a free developer blogging platform to help you share your ideas with people in tech, developers, and engineers.
@@ -211,29 +208,12 @@ Here are some resources to technical writing interview questions to help you pre
 - [Mirror.xyz](https://mirror.xyz/) ~ Mirror.xyz is a publishing platform for writers that leverages cryptocurrency and blockchain technology.
 - [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/) ~ FreeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Types of Technical-writing
-- Instruction manuals
-- Proposals
-- Reports
-- Posters and Visual Communication
-- Technical Descriptions
-- Product Recalls
-- White Papers
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## Job Boards For Technical Writing roles
 
-- [Startup.jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter)
-- [Angel.co](https://angel.co/jobs)
-- [Content Writing Jobs](https://contentwritingjobs.com/)
+- [Startup.jobs](https://startup.jobs/?q=technical+writer)
+- [Wellfound](wellfound.com/jobs)
+- [Best Writing Jobs](https://bestwriting.com/jobs/?filter-title=Technical%20writer)
 
 ##
-<footer>
-&copy;<em>2022</em>Damilola Ezekiel
+
 <p align="center">Made with ❤️ by <a href="https://twitter.com/that_yhemmygirl">Damilola Ezekiel</a> </p>
-</footer>
