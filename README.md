@@ -6,7 +6,7 @@
 
 ## What is Technical Writing?
 
-> Technical writing is a type of writing where the author is writing about a particular subject that requires direction, instruction, or explanation. This style of writing has a very different purpose and different characteristics than other writing styles. ~ [YourDictionary](https://grammar.yourdictionary.com/word-definitions/definition-of-technical-writing.html)
+
 
 ## Outline
 
@@ -18,7 +18,8 @@
 - [Courses](#courses)
 - [Youtube](#youtube)
 - [Communities](#communities)
-- [Tools](#tools)
+- [Writing Tools](#writing-tools)
+- [Documentation Tools](#documentation-tools)
 - [Who pays technical writers](#who-pays-technical-writers)
 - [Open Source Projects](#open-source-projects)
     - [Open Source Projects/Programs Technical Writers Can Contribute To](#open-source-projectsprograms-technical-writers-can-contribute-to)
@@ -26,6 +27,7 @@
 - [Preparing for technical writing interviews](#preparing-for-technical-writing-interviews)
 - [Sites to publish articles](#sites-to-publish-articles)
 - [Job Boards For Technical Writing roles](#job-boards-for-technical-writing-roles)
+- [](#)
 
 ## Resources
 
@@ -33,6 +35,7 @@ This repository contains different technical writing resources that has been gat
 
 ## Articles
 
+- [Technical Writing Beyond Blogposts](https://medium.com/@techwritershub/technical-writing-beyond-blogposts-46b2f23168ce)
 - [How to Get Started with Technical Writing](https://www.samjulien.com/how-to-get-started-with-technical-writing)
 - [How to become a technical writer](https://www.freecodecamp.org/news/how-to-become-a-technical-writer/)
 - [Technical Writing for Beginners – An A-Z Guide to Tech Blogging Basics](https://www.freecodecamp.org/news/technical-writing-for-beginners/)
@@ -83,6 +86,8 @@ This repository contains different technical writing resources that has been gat
 Communities can provide valuable learning opportunities, growth, mentorship and career advancement. Connecting with people of similar interest is one of the reasons why people join communities. Here are some of the communities that technical writers can join:
 
 - [Write the Docs](https://www.writethedocs.org/)
+- [Docnext](https://x.com/docnextcm)
+- [Hackmamba](https://hackmamba.io/community/)
 - [Linkedin Technical Writing Community](https://www.linkedin.com/groups/13705342/)
 - [Global Writers Community](https://web.facebook.com/groups/technicalwriterjobs/?_rdc=1&_rdr)
 - [API Documentation Group](https://www.linkedin.com/groups/3709151/)
@@ -92,7 +97,7 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Techwriters.dev](https://techwriters.dev/)
 - [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 
-## Tools
+## Writing Tools
 
 - [Canva](https://www.canva.com/) ~ Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content.
 - [Removebg](https://www.remove.bg/) ~ A tools that is used to remove image backgrounds.
@@ -117,6 +122,30 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [MarkDoc](https://markdoc.io/) ~ A superset of Markdown for creating custom documentation websites. It was created by Stripe and made open source in May 2022.
 - [Wordtune](https://www.wordtune.com/) ~ Wordtune is  an AI- powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
 
+## Documentation Tools 
+
+- [GitBook](https://www.gitbook.com/) ~ A modern documentation platform where teams can document everything from products to internal knowledge bases and APIs.
+- [Read the Docs](https://readthedocs.org/) ~ An open-source platform for hosting, building, and versioning documentation.
+- [Docusaurus](https://docusaurus.io/) ~ A static site generator that makes it easy to build open-source project websites.
+- [Sphinx](https://www.sphinx-doc.org/) ~ A documentation generator that converts reStructuredText files into HTML websites and other formats.
+- [MkDocs](https://www.mkdocs.org/) ~ A fast, simple, and static site generator that's geared towards building project documentation.
+- [Swagger](https://swagger.io/) ~ A suite of tools for API documentation, including Swagger Editor, Swagger UI, and Swagger Codegen.
+- [Postman](https://www.postman.com/) ~ A collaboration platform for API development that makes it easy to create, share, test, and document APIs.
+- [Slate](https://slatedocs.github.io/slate/) ~ A static site generator specifically designed for API documentation.
+- [Redoc](https://github.com/Redocly/redoc) ~ An open-source tool for generating API documentation from OpenAPI (formerly Swagger) definitions.
+- [Docz](https://www.docz.site/) ~ A tool for writing documentation for your React components with MDX and live-reload support.
+- [Jekyll](https://jekyllrb.com/) ~ A static site generator that transforms plain text into static websites and blogs.
+- [Hugo](https://gohugo.io/) ~ A fast and flexible static site generator written in Go.
+- [Antora](https://antora.org/) ~ A documentation site generator for creating documentation portals and technical documentation websites.
+- [VuePress](https://vuepress.vuejs.org/) ~ A static site generator powered by Vue.js.
+- [Asciidoctor](https://asciidoctor.org/) ~ A fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.
+- [Doxygen](http://www.doxygen.nl/) ~ A documentation generator and static analysis tool for various programming languages.
+- [Natural Docs](http://www.naturaldocs.org/) ~ An open-source documentation generator for multiple programming languages.
+- [Typora](https://typora.io/) ~ A minimal markdown editor that provides seamless live preview and a distraction-free writing environment.
+- [LaTeX](https://www.latex-project.org/) ~ A high-quality typesetting system used for producing technical and scientific documentation.
+- [Confluence](https://www.atlassian.com/software/confluence) ~ A collaboration tool used to help teams collaborate and share knowledge efficiently.
+- [MadCap Flare](https://www.madcapsoftware.com/products/flare/) ~ A comprehensive technical authoring and publishing tool for creating content for various outputs.
+
 
 ## Who pays technical writers
 
@@ -132,6 +161,7 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 
 Here are some articles to help you understand how to contribute to open source projects.
 
+- [Open Source for Technical Writers](https://medium.com/@techwritershub/open-source-for-technical-writers-a-guide-on-how-to-make-contributions-ab1bb1962fc1)
 - [The Technical Writers Guide to Contributing to Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
 - [How to Contribute to Open-Source as a Technical Writer](https://javascript.plainenglish.io/how-to-contribute-to-open-source-as-a-technical-writer-bb708245480c)
 - [4 tips to becoming a technical writer with open source contributions](https://opensource.com/article/21/11/technical-writing-open-source)
@@ -147,15 +177,13 @@ Here are some articles to help you understand how to contribute to open source p
 
 ## Blogs to follow for awesome writing contents
 
-| Technical Writers | Blogs                                      | Twitter Handle                                          |
-| :---------------- | ------------------------------------------ | ------------------------------------------------------- |
-| Damilola Ezekiel  | https://dharmelolar.hashnode.dev           | [@that_yhemmygirl](https://twitter.com/that_yhemmygirl) |
-| Tom Johnson       | https://idratherbewriting.com/             | [@tomjohnson](https://twitter.com/tomjohnson)           |
-| Kesi Parker       | https://medium.com/@kesiparker             | [@ParkerKesi](https://twitter.com/ParkerKesi)           |
-| Tania Rascia      | https://tania.dev/                         | [@taniarascia](https://twitter.com/taniarascia)         |
-| Dillion Megida    | https://writing.dillionmegida.com/         | [@iamdillion](https://twitter.com/iamdillion)           |
-| Linda Ikechukwu   | https://www.everythingtechnicalwriting.com | [\_MsLinda](https://twitter.com/_MsLinda)               |
-| Amruta Ranade     | https://dev.to/amrutaranade                | [@AmrutaRanade](https://twitter.com/AmrutaRanade)       |
+- [TechWriters Hub](https://medium.com/@techwritershub)
+- [Kesi Parker](https://medium.com/@kesiparker)
+- [IDRatherbewriting](https://idratherbewriting.com/)
+- [Everything Technical Writing](https://www.everythingtechnicalwriting.com)
+- [WriteTech Hub](https://writetechhub.org/blog/)
+- [Hackmamba](https://hackmamba.io/blog/)
+  
 
 ## Preparing for technical writing interviews
 
@@ -182,9 +210,9 @@ Here are some resources to technical writing interview questions to help you pre
 
 ## Job Boards For Technical Writing roles
 
-- [Startup.jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter)
-- [Angel.co](https://angel.co/jobs)
-- [Content Writing Jobs](https://contentwritingjobs.com/)
+- [Startup.jobs](https://startup.jobs/?q=technical+writer)
+- [Wellfound](wellfound.com/jobs)
+- [Best Writing Jobs](https://bestwriting.com/jobs/?filter-title=Technical%20writer)
 
 ##
 
