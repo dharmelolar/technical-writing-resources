@@ -2,17 +2,14 @@
 <img src="https://res.cloudinary.com/dharme/image/upload/v1652064464/Copy_of_Dx_kxd5ty.png" width="400" height="300"/>
 </div>
 
-#### Technical writing is a form of communication that helps users solve problems with technology. As a technical writer, sharing your knowledge and experience with people helps you affirm that you have a solid understanding of the technology you're writing about.
-
-## What is Technical Writing?
 
 
 
 ## Outline
 
-- [What is Technical Writing?](#what-is-technical-writing)
 - [Outline](#outline)
 - [Resources](#resources)
+- [What is Technical Writing?](#what-is-technical-writing)
 - [Articles](#articles)
 - [Books](#books)
 - [Courses](#courses)
@@ -32,6 +29,11 @@
 ## Resources
 
 This repository contains different technical writing resources that has been gathered from all around the internet
+
+## What is Technical Writing?
+Technical writing is a form of communication that helps users solve problems with technology. It is the process of creating clear, concise, and informative content designed to convey complex information in a way that is easily understood by the intended audience. 
+
+ It often involves writing manuals, guides, reports, and documentation that explain technical concepts, processes, or products.
 
 ## Articles
 
