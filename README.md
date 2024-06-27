@@ -1,6 +1,9 @@
 <div  align="center" >
-<img src="https://res.cloudinary.com/dharme/image/upload/v1652064464/Copy_of_Dx_kxd5ty.png" width="400" height="300"/>
+<!-- <img src="https://res.cloudinary.com/dharme/image/upload/v1652064464/Copy_of_Dx_kxd5ty.png" width="400" height="300"/> -->
+
+<img src="./Images/Banner.png" alt="banner-image"/>
 </div>
+
 
 
 
@@ -141,10 +144,6 @@ Communities can provide valuable learning opportunities, growth, mentorship and 
 - [Antora](https://antora.org/) ~ A documentation site generator for creating documentation portals and technical documentation websites.
 - [VuePress](https://vuepress.vuejs.org/) ~ A static site generator powered by Vue.js.
 - [Asciidoctor](https://asciidoctor.org/) ~ A fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.
-- [Doxygen](http://www.doxygen.nl/) ~ A documentation generator and static analysis tool for various programming languages.
-- [Natural Docs](http://www.naturaldocs.org/) ~ An open-source documentation generator for multiple programming languages.
-- [Typora](https://typora.io/) ~ A minimal markdown editor that provides seamless live preview and a distraction-free writing environment.
-- [LaTeX](https://www.latex-project.org/) ~ A high-quality typesetting system used for producing technical and scientific documentation.
 - [Confluence](https://www.atlassian.com/software/confluence) ~ A collaboration tool used to help teams collaborate and share knowledge efficiently.
 - [MadCap Flare](https://www.madcapsoftware.com/products/flare/) ~ A comprehensive technical authoring and publishing tool for creating content for various outputs.
 
