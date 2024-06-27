@@ -211,8 +211,11 @@ Here are some resources to technical writing interview questions to help you pre
 
 ## Job Boards For Technical Writing roles
 
+- [Top Job Boards for Technical Writers](https://medium.com/@techwritershub/top-job-boards-for-technical-writers-7a318886d81d)
+
 - [Startup.jobs](https://startup.jobs/?q=technical+writer)
 - [Wellfound](wellfound.com/jobs)
+  
 - [Best Writing Jobs](https://bestwriting.com/jobs/?filter-title=Technical%20writer)
 
 ##
